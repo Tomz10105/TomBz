@@ -1,7 +1,5 @@
 ## 👋 &nbsp;About me
 
-Hi! I'm TomBz, a backend engineer mainly focused on multimedia production. My interests lie in researching and developing blockchain-related technologies and applications. I enjoy creating fun and convenient apps that improve people's lives.
-
 Feel free to communicate with me in ,English or Tagalog!
 
 <div class="flex">
